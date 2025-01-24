@@ -67,8 +67,9 @@ Escolhida por sua eficiência, simplicidade e por ser uma ótima base para apren
 ---
 
 # 📦 Estrutura do Projeto
-Abaixo está a estrutura de pastas e arquivos deste projeto:
+
 ![image](https://github.com/user-attachments/assets/c4a6a58f-44f9-45dd-bfc6-3b1ed3901eb7)
+> *Acima está a estrutura de pastas e arquivos deste projeto:*
 
 ---
 
@@ -99,7 +100,7 @@ git push origin feature/nova-feature
 
 
 ![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/user-attachments/assets/464c78fa-b5fb-4041-b35b-20563cab29c8)
-> *Até a parte de **adicionar** até **atualizar** tarefa*
+> *Da parte **adicionar** até **atualizar** tarefa*
 
 
 ![Vídeo sem título ‐ Feito com o Clipchamp (1)](https://github.com/user-attachments/assets/5bee2b7e-0789-4807-b5d2-f94f427f22d1)
