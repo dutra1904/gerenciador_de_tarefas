@@ -5,14 +5,6 @@
 
 ---
 
-# 📽️ Video demostrativo
-
-<img src="https://github.com/user-attachments/assets/9ffb8bfd-da86-446e-a345-4eae3c8e7540" style="max-width: 100%; height: auto;">
-
-<img src="https://github.com/user-attachments/assets/c9ad25f8-3ffc-4384-baa5-806eb9fdc94d" style="max-width: 100%; height: auto;">
-
----
-
 # ⚙️Gerenciador de Tarefas
 
 Um simples gerenciador de tarefas feito em `C`, com funcionalidades para **adicionar**, **visualizar**, **atualizar**, **completar** e **excluir tarefas** concluídas.
@@ -101,6 +93,20 @@ git push origin feature/nova-feature
 ```
 5. Abra um Pull Request.
 
+---
+
+# 📽️ Video demostrativo
+
+
+![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/user-attachments/assets/464c78fa-b5fb-4041-b35b-20563cab29c8)
+> *Até a parte de **adicionar** até **atualizar** tarefa*
+
+
+![Vídeo sem título ‐ Feito com o Clipchamp (1)](https://github.com/user-attachments/assets/5bee2b7e-0789-4807-b5d2-f94f427f22d1)
+> *Da parte de **atualizar** até **Sair***
+
+
+   
 ---
 
 ## 📝 Licença
