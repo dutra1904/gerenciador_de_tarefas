@@ -7,7 +7,9 @@
 
 # 📽️ Video demostrativo
 
-<img src="https://github.com/user-attachments/assets/e4163243-4ac8-4635-9f6f-77df834c9a4b" alt="Video demostrativo do codigo" width="800" height="auto">
+<img src="https://github.com/user-attachments/assets/9ffb8bfd-da86-446e-a345-4eae3c8e7540" style="max-width: 100%; height: auto;">
+
+<img src="https://github.com/user-attachments/assets/c9ad25f8-3ffc-4384-baa5-806eb9fdc94d" style="max-width: 100%; height: auto;">
 
 ---
 
