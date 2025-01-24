@@ -3,9 +3,11 @@
 - **Nome** : *Maria clara Dutra*
 - **Contato** : <dutramaria165@gmail.com>
 
+---
+
 ## ⚙️Gerenciador de Tarefas
 
-Um simples gerenciador de tarefas feito em C, com funcionalidades para adicionar, visualizar, atualizar, completar e excluir tarefas concluídas.
+Um simples gerenciador de tarefas feito em `C`, com funcionalidades para **adicionar**, **visualizar**, **atualizar**, **completar** e **excluir tarefas** concluídas.
 
 ---
 
@@ -61,9 +63,13 @@ Escolhida por sua eficiência, simplicidade e por ser uma ótima base para apren
 ### Controle de Fluxo 
 - Estruturas como `do-while`, `for`, `if-else` e `switch-case` para a lógica do programa.
 
-### 📦 Estrutura do Projeto
+---
+
+## 📦 Estrutura do Projeto
 Abaixo está a estrutura de pastas e arquivos deste projeto:
 ![image](https://github.com/user-attachments/assets/c4a6a58f-44f9-45dd-bfc6-3b1ed3901eb7)
+
+---
 
 ## 🔗 Contribuindo
 
@@ -85,6 +91,8 @@ git commit -m 'Adiciona nova feature'
 git push origin feature/nova-feature
 ```
 5. Abra um Pull Request.
+
+---
 
 ## 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
