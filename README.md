@@ -1,9 +1,9 @@
-### 🧑‍💻 Autora
+## 🧑‍💻 Autora
 
 - **Nome** : *Maria clara Dutra*
 - **Contato** : <dutramaria165@gmail.com>
 
-# ⚙️Gerenciador de Tarefas
+## ⚙️Gerenciador de Tarefas
 
 Um simples gerenciador de tarefas feito em C, com funcionalidades para adicionar, visualizar, atualizar, completar e excluir tarefas concluídas.
 
@@ -65,7 +65,7 @@ Escolhida por sua eficiência, simplicidade e por ser uma ótima base para apren
 Abaixo está a estrutura de pastas e arquivos deste projeto:
 ![image](https://github.com/user-attachments/assets/c4a6a58f-44f9-45dd-bfc6-3b1ed3901eb7)
 
-### 🔗 Contribuindo
+## 🔗 Contribuindo
 
 Se você deseja contribuir com este projeto, siga os passos abaixo:
 1. Faça um fork do projeto:
@@ -88,7 +88,3 @@ git push origin feature/nova-feature
 
 ## 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-
-
-
