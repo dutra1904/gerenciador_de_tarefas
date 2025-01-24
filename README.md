@@ -7,7 +7,7 @@
 
 ## 📽️ Video demostrativo
 
-![Gerenciado de tarefas ‐ Video demostrativo](https://github.com/user-attachments/assets/e4163243-4ac8-4635-9f6f-77df834c9a4b)
+<img src="https://github.com/user-attachments/assets/e4163243-4ac8-4635-9f6f-77df834c9a4b" alt="Video demostrativo do codigo" width="800" height="auto">
 
 ---
 
