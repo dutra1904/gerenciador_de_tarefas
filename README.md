@@ -1,9 +1,9 @@
 ### 🧑‍💻 Autora
 
 - **Nome** : *Maria clara Dutra*
-- **Contato** : [Gmail](mailto:dutramaria165@mgmail.com)
+- **Contato** : <dutramaria165@gmail.com>
 
-# Gerenciador de Tarefas
+# ⚙️Gerenciador de Tarefas
 
 Um simples gerenciador de tarefas feito em C, com funcionalidades para adicionar, visualizar, atualizar, completar e excluir tarefas concluídas.
 
@@ -43,8 +43,8 @@ Após compilar, execute o programa com o seguinte comando:
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-Linguagem: C
--  Escolhida por sua eficiência, simplicidade e por ser uma ótima base para aprender estruturas de dados e algoritmos.
+- Linguagem: C
+Escolhida por sua eficiência, simplicidade e por ser uma ótima base para aprender estruturas de dados e algoritmos.
 - Compilador: GCC ou outro compilador de C compatível.
 
 ---
@@ -86,7 +86,8 @@ git push origin feature/nova-feature
 ```
 5. Abra um Pull Request.
 
-
+## 📝 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
 
