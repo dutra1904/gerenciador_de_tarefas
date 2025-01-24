@@ -1,4 +1,4 @@
-## 🧑‍💻 Autora
+## 👩🏾‍💻 Autora
 
 - **Nome** : *Maria Clara Dutra*
 - **Contato** : <dutramaria165@gmail.com>
@@ -7,6 +7,7 @@
 
 ## 📽️ Video demostrativo
 
+![Gerenciado de tarefas ‐ Video demostrativo](https://github.com/user-attachments/assets/e4163243-4ac8-4635-9f6f-77df834c9a4b)
 
 ---
 
