@@ -1,6 +1,6 @@
 ## 🧑‍💻 Autora
 
-- **Nome** : *Maria clara Dutra*
+- **Nome** : *Maria Clara Dutra*
 - **Contato** : <dutramaria165@gmail.com>
 
 ---
@@ -19,6 +19,8 @@ Um simples gerenciador de tarefas feito em `C`, com funcionalidades para **adici
 - **Marcar Como Concluída**: Atualiza o status de uma tarefa para concluída.
 - **Excluir Tarefas Concluídas**: Remove todas as tarefas que já foram finalizadas.
 
+![image](https://github.com/user-attachments/assets/50f25fc5-03a8-4113-b11b-24ae7d5cc852)
+
 ---
 
 ## 🚀 Como Iniciar o Projeto
@@ -26,8 +28,7 @@ Um simples gerenciador de tarefas feito em `C`, com funcionalidades para **adici
 ### **Clone o Repositório**
 Execute o comando abaixo para clonar o repositório e acessar o diretório:
 ```bash
-git clone <url-do-repositorio>
-cd GERENCIADOR_DE_TAREFAS
+git clone https://github.com/dutra1904/gerenciador_de_tarefas.git
 ```
 
 ### Compile o Código
@@ -45,9 +46,9 @@ Após compilar, execute o programa com o seguinte comando:
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- Linguagem: C
+- **Linguagem: C**
 Escolhida por sua eficiência, simplicidade e por ser uma ótima base para aprender estruturas de dados e algoritmos.
-- Compilador: GCC ou outro compilador de C compatível.
+- **Compilador:** GCC ou outro compilador de C compatível.
 
 ---
 
@@ -55,7 +56,7 @@ Escolhida por sua eficiência, simplicidade e por ser uma ótima base para apren
 
 ### Estruturas de Dados 
 - Uso de `struct` para representar tarefas.
-- Manipulação de arrays para armazenamento dinâmico das tarefas.
+- Manipulação de `arrays` para armazenamento dinâmico das tarefas.
 
 ### Manipulação de String
 - Utilização de funções como `fgets` e `strcspn` para entrada e manipulação de strings.
@@ -76,7 +77,7 @@ Abaixo está a estrutura de pastas e arquivos deste projeto:
 Se você deseja contribuir com este projeto, siga os passos abaixo:
 1. Faça um fork do projeto:
 ```
-git fork <url-do-repositorio>
+git fork https://github.com/dutra1904/gerenciador_de_tarefas.git
 ```
 2. Crie uma branch para sua feature:
 ```
