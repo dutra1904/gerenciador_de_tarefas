@@ -1,0 +1,36 @@
+
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    {
+        "version": "2.0.0",
+        "tasks": [
+            {
+                "label": "Compilar C",
+                "type": "shell",
+                "command": "gcc",
+                "args": [
+                    "-o",
+                    "gerenciador_de_tarefas",
+                    "gerenciador_de_tarefas.c"
+                ],
+                "group": {
+                    "kind": "build",
+                    "isDefault": true
+                },
+                "problemMatcher": [],
+                "detail": "Tarefa para compilar o código em C usando GCC"
+            },
+            {
+                "label": "Executar Programa",
+                "type": "shell",
+                "command": "./gerenciador_de_tarefas",
+                "group": {
+                    "kind": "test",
+                    "isDefault": true
+                },
+                "problemMatcher": [],
+                "detail": "Tarefa para executar o programa compilado"
+            }
+        ]
+    }
+    
